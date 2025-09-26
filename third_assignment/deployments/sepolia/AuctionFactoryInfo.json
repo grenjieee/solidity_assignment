@@ -1,0 +1,13 @@
+{
+  "address": "0xBe3046a266F76b996bbf721C129e2f0D14a3752C",
+  "abi": [
+    "event AuctionCreated(address,address,uint256)",
+    "event Initialized(uint8)",
+    "function auctions(uint256) view returns (address)",
+    "function createAuction(address,uint256,uint256,uint256)",
+    "function getAllAuctions() view returns (address[])",
+    "function initialize(address)",
+    "function priceFeed() view returns (address)"
+  ],
+  "numDeployments": 4
+}

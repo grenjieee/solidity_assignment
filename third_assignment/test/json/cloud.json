@@ -1,0 +1,9 @@
+{
+    "name": "cloud",
+    "description": "NFT(云彩)",
+    "image": "ipfs://bafkreihzheoxfq2bch7l6z6xeraighrbw7kxguyr23lp7elwhinwbrj63q",
+    "external_url": "https://black-geographical-louse-890.mypinata.cloud/ipfs/bafkreihzheoxfq2bch7l6z6xeraighrbw7kxguyr23lp7elwhinwbrj63q",
+    "traits": [
+        { "trait_type": "背景", "value": "彩色" }
+    ]
+}

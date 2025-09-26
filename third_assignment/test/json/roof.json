@@ -1,0 +1,10 @@
+{
+    "name": "roof",
+    "description": "NFT(屋顶)",
+    "image": "ipfs://bafkreies4aguvbbll2x2jgvgrqkvgndwxxcvnhw2gsn4m3kgfebvi4v54y",
+    "external_url": "https://black-geographical-louse-890.mypinata.cloud/ipfs/bafkreies4aguvbbll2x2jgvgrqkvgndwxxcvnhw2gsn4m3kgfebvi4v54y",
+    "traits": [
+        { "trait_type": "背景", "value": "蓝色" },
+        { "trait_type": "稀有度", "value": "常见" }
+    ]
+}

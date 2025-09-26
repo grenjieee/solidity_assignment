@@ -1,0 +1,12 @@
+{
+  "address": "0x189d34Bc95C895DE35658431293060E009798a5B",
+  "abi": [
+    "event Initialized(uint8)",
+    "function getLatestPrice(address) view returns (int256,uint8)",
+    "function getUSDValue(address,uint256) view returns (uint256)",
+    "function initialize()",
+    "function priceFeeds(address) view returns (address)",
+    "function setPriceFeed(address,address)"
+  ],
+  "numDeployments": 4
+}
