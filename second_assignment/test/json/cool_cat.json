@@ -1,0 +1,10 @@
+{
+    "name": "cool_cat",
+    "description": "这是我的第一个测试NFT(黑猫)",
+    "image": "ipfs://bafkreih4mfeesfwwpgzs56bj2kaz7xo7jj33gzceikamd35einx3wvk2yi",
+    "external_url": "https://black-geographical-louse-890.mypinata.cloud/ipfs/bafkreih4mfeesfwwpgzs56bj2kaz7xo7jj33gzceikamd35einx3wvk2yi",
+    "attributes": [
+        { "trait_type": "背景", "value": "黑色" },
+        { "trait_type": "稀有度", "value": "常见" }
+    ]
+}
